@@ -1,0 +1,19 @@
+ <!-- Masala form -->
+ <div ng-controller="MasalaController">
+  <h1>Add a new masala</h1>
+  <form ng-submit="regtrProduct()">
+    <label for="category">Category:</label>
+    <input type="text" id="category" ng-model="category" />
+    <label for="name">Name:</label>
+    <input type="text" id="name" ng-model="name" />
+    <label for="description">Description:</label>
+    <input type="text" id="description" ng-model="description" />
+    <label for="ingredients">Ingredients:</label>
+    <input type="text" id="ingredients" ng-model="ingredients" />
+    <label for="weight">Weight:</label>
+    <input type="number" id="weight" ng-model="weight" />
+    <label for="price">Price:</label>
+    <input type="number" id="Price" ng-model="price" />
+    <button type="submit">Submit</button>
+  </form>
+</div>
