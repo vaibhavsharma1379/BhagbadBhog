@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vaibhavsharma1379/BhagbadBhog/issues"
   },
-  "homepage": "https://github.com/vaibhavsharma1379/BhagbadBhog#readme"
+  "homepage": "https://github.com/vaibhavsharma1379/BhagbadBhog#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
