@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "category": "Masale",
+      "name": "Amchur",
+      "description": "jkeqffbqjebfbbbbbbbbbbbbbbbbbqdhwdbhjrbbbbbbbbbbbbbbbbbbbefbhjbfjeh2bf",
+      "ingredients": [
+        "Amm",
+        " salt",
+        " red chilli"
+      ],
+      "weight": 100,
+      "price": 100,
+      "id": 1
+    },
+    {
+      "category": "Masale",
+      "name": "redchilly",
+      "description": "jkeqffbqjebfbbbbbbbbbbbbbbbbbqdhwdbhjrbbbbbbbbbbbbbbbbbbbefbhjbfjeh2bf",
+      "ingredients": [
+        "Amm",
+        " salt",
+        " red chilli"
+      ],
+      "weight": 100,
+      "price": 100,
+      "id": 2
+    }
+  ]
+}
