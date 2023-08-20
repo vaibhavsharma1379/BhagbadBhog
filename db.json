@@ -56,5 +56,9 @@
       "price": 150,
       "id": 3
     }
-  ]
+  ],
+  "admin":{
+    "email":"divyaumakant@gmail.com",
+    "password":"Umakant@123"
+  }
 }
