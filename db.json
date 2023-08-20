@@ -17,45 +17,7 @@
     "name": "typicode"
   },
   "products": [
-    {
-      "category": "Masale",
-      "name": "Amchur",
-      "description": "jkeqffbqjebfbbbbbbbbbbbbbbbbbqdhwdbhjrbbbbbbbbbbbbbbbbbbbefbhjbfjeh2bf",
-      "ingredients": [
-        "Amm",
-        " salt",
-        " red chilli"
-      ],
-      "weight": 100,
-      "price": 100,
-      "id": 1
-    },
-    {
-      "category": "Masale",
-      "name": "redchilly",
-      "description": "jkeqffbqjebfbbbbbbbbbbbbbbbbbqdhwdbhjrbbbbbbbbbbbbbbbbbbbefbhjbfjeh2bf",
-      "ingredients": [
-        "Amm",
-        " salt",
-        " red chilli"
-      ],
-      "weight": 100,
-      "price": 100,
-      "id": 2
-    },
-    {
-      "category": "spices",
-      "name": "achar",
-      "description": "it is very teasty",
-      "ingredients": [
-        "Mango",
-        " Salt",
-        " red Chillies"
-      ],
-      "weight": 70,
-      "price": 150,
-      "id": 3
-    }
+  
   ],
   "admin":{
     "email":"divyaumakant@gmail.com",
